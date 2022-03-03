@@ -1,0 +1,30 @@
+<html><head>
+    <title>Netlify</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>IA "Panorama" xəbər verir</h1>
+    <div class="main">
+        <ul>
+            <li>20 dek 2020</li>
+            <li>Ulan-Ude polisi Leninin "başı"ilə olan icazəsiz futbol oyununun qarşısını aldı.</li>
+        
+            <hr>
+            <li>19 dek 2020</li>
+            <li>"Dom-2" şousunun iştirakçıları səhmdarlar tərəfindən aldadılarını bəyan etdilər.</li>
+        
+            <hr>
+            <li>12 dek 2020</li>
+            <li>Polşanın daşıyıcı raketi göyün qübbəsi ilə çarpıldıqdan sonra partladı.</li>
+            <hr>
+            <li>09 dek 2020</li>
+            <li>"Roskosmos" Ayın kolonizasiyası proqramının bir hissəsi olaraq orda ümümi rejimli koloniya quracaq</li>
+            <hr>
+        
+        
+    </ul></div>
+
+
+</body></html>
